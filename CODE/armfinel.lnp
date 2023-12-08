@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\armfinels.o"
+--library_type=microlib --strict --scatter ".\armfinel.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\armfinel.map" -o .\armfinel.axf
