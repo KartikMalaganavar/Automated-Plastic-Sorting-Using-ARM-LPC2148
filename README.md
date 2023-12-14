@@ -1,24 +1,24 @@
-Automated-Plastic-Sorting-Using-LPC2148
-Project Overview:
-Automated Plastic Waste Sorting 🌐🔄
+# Automated Plastic Waste Sorting 🌐🔄
 
-Objective:
+## Objective 🚀
 Revolutionizing waste management by automating the separation of transparent and colored plastics using intelligent controllers and cutting-edge technology.
 
-Key Components:
-📡 Infrared (IR) Sensor
-💻 ARM7 Controller (LPC2148)
-🔧 Two Stepper Motors
+## Key Components 📡💻🔧
+- Infrared (IR) Sensor
+- ARM7 Controller (LPC2148)
+- Two Stepper Motors
 
-Features:
-🚀 Efficient plastic waste sorting
-🔍 In-depth integration of ARM controller functionalities
-🌐 Utilizes external interrupts and ADC for enhanced precision
+## Features 🌟
+- Efficient plastic waste sorting
+- In-depth integration of ARM controller functionalities
+- Utilizes external interrupts and ADC for enhanced precision
 
-Technologies:
-💡 Embedded Systems | 🤖 ARM Architecture | 📟 Sensor Technology
+## Technologies 💡
+- Embedded Systems
+- ARM Architecture
+- Sensor Technology
 
-Impact:
-🌍 Sustainable waste management | ♻️ Eco-friendly solutions
+## Impact 🌍
+Sustainable waste management | Eco-friendly solutions ♻️🌱
 
-Explore the future of waste sorting with our innovative project! #EmbeddedSystems #SustainableTech #WasteManagement 🌱✨
+Explore the future of waste sorting with our innovative project! #EmbeddedSystems #SustainableTech #WasteManagement 🚀
